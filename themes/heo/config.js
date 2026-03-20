@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2023-09-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -49,9 +49,9 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.youtube.com/@%E5%B0%8F%E7%99%BD%E7%BF%BB%E5%A2%99%E6%94%BB%E7%95%A5',
+  HEO_INFO_CARD_URL1: 'https://www.youtube.com/@%E5%B0%8F%E7%99%BD%E7%BF%BB%E5%A2%99%E6%94%BB%E7%95%A5',
+  HEO_INFO_CARD_ICON1: 'fas fa-youtube',
+  HEO_INFO_CARD_URL2: 'https://xiabai.uk',
   HEO_INFO_CARD_ICON2: 'fab fa-telegram',
   HEO_INFO_CARD_URL3: 'https://t.me/xiaobai0044',
   HEO_INFO_CARD_TEXT3: '了解更多',
@@ -60,58 +60,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'YouTube',
-      img_1: 'https://cdn.simpleicons.org/youtube/FF0000',
+      img_1: '/images/heo/youtube.webp',
       color_1: '#FF0000',
       title_2: 'X',
-      img_2: 'https://cdn.simpleicons.org/x/000000',
+      img_2: '/images/heo/x.webp',
       color_2: '#000000'
     },
     {
       title_1: 'Telegram',
-      img_1: 'https://cdn.simpleicons.org/telegram/26A5E4',
+      img_1: '/images/heo/telegram.webp',
       color_1: '#26A5E4',
       title_2: 'Discord',
-      img_2: 'https://cdn.simpleicons.org/discord/5865F2',
+      img_2: '/images/heo/discord.webp',
       color_2: '#5865F2'
     },
     {
       title_1: 'Instagram',
-      img_1: 'https://cdn.simpleicons.org/instagram/E4405F',
+      img_1: '/images/heo/instagram.webp',
       color_1: '#E4405F',
       title_2: 'WhatsApp',
-      img_2: 'https://cdn.simpleicons.org/whatsapp/25D366',
+      img_2: '/images/heo/whatsapp.webp',
       color_2: '#25D366'
     },
     {
       title_1: 'Reddit',
-      img_1: 'https://cdn.simpleicons.org/reddit/FF4500',
+      img_1: '/images/heo/reddit.webp',
       color_1: '#FF4500',
       title_2: 'TikTok',
-      img_2: 'https://cdn.simpleicons.org/tiktok/000000',
+      img_2: '/images/heo/tiktok.webp',
       color_2: '#000000'
     },
     {
       title_1: 'Facebook',
-      img_1: 'https://cdn.simpleicons.org/facebook/1877F2',
+      img_1: '/images/heo/facebook.webp',
       color_1: '#1877F2',
       title_2: 'Twitch',
-      img_2: 'https://cdn.simpleicons.org/twitch/9146FF',
+      img_2: '/images/heo/twitch.webp',
       color_2: '#9146FF'
     },
     {
       title_1: 'Google',
-      img_1: 'https://cdn.simpleicons.org/google/4285F4',
+      img_1: '/images/heo/google.webp',
       color_1: '#4285F4',
       title_2: 'Netflix',
-      img_2: 'https://cdn.simpleicons.org/netflix/E50914',
+      img_2: '/images/heo/netflix.webp',
       color_2: '#E50914'
     },
     {
       title_1: 'Spotify',
-      img_1: 'https://cdn.simpleicons.org/spotify/1DB954',
+      img_1: '/images/heo/spotify.webp',
       color_1: '#1DB954',
       title_2: 'Steam',
-      img_2: 'https://cdn.simpleicons.org/steam/1B2838',
+      img_2: '/images/heo/steam.webp',
       color_2: '#1B2838'
     }
   ],
