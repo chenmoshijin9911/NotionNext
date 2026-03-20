@@ -51,7 +51,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://www.youtube.com/@%E5%B0%8F%E7%99%BD%E7%BF%BB%E5%A2%99%E6%94%BB%E7%95%A5',
   HEO_INFO_CARD_ICON1: 'fas fa-youtube',
-  HEO_INFO_CARD_URL2: 'https://xiabai.uk',
+  HEO_INFO_CARD_URL2: 'https://xiaobai.uk',
   HEO_INFO_CARD_ICON2: 'fab fa-telegram',
   HEO_INFO_CARD_URL3: 'https://t.me/xiaobai0044',
   HEO_INFO_CARD_TEXT3: '了解更多',
